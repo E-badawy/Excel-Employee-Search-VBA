@@ -139,7 +139,7 @@ Excel-Employee-Search-VBA/
 
 ## 🧑‍💻 Author
 **Badawi Aminu Muhammed**  
-Data Analyst | Project Manager | Researcher  
+Data Analyst | Business Intellince Specialist | Researcher  Scientist
 📧 cigma.generalsolutions@gmail.com  
 🌐 [linkedin.com/in/elameenbadawy](https://linkedin.com/in/elameenbadawy)
 
