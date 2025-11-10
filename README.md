@@ -1,4 +1,4 @@
-# 🧠 Excel Employee Search & Automation System (VBA Project)
+# Excel Employee Search & Automation System (VBA Project)
 
 ## 📘 Overview
 This project demonstrates how to use **Excel VBA** and **ActiveX Controls** to create a functional and automated **Employee Record Search System**.  
@@ -119,7 +119,7 @@ This setup is ideal for HR dashboards, employee directories, or data filtering t
 ### 📸 Screenshots
 | Search Interface | Results Display |
 |------------------|-----------------|
-| ![Search Interface](screenshots/search_interface.png) | ![Results Display](screenshots/results_display.png) |
+| ![Search Interface](screenshots/search_cleared.png) | ![Results Display](screenshots/results_display.png) |
 
 ---
 
