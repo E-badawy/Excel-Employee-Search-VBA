@@ -109,7 +109,7 @@ This setup is ideal for HR dashboards, employee directories, or data filtering t
 ## 🧠 Demo Section
 
 ### 🎥 Video Demo
-📺 [![Watch the Demo](screenshots/search_interface.png)](excel_search_demo.mp4)  
+📺 [![Watch the Demo](results_display.png)](excel_search_demo.mp4)  
 *(Click image to view recorded demo)*  
 
 > You can record your screen using **Xbox Game Bar (Windows + G)** or **Mac Screen Recorder (Command + Shift + 5)**, then save it as `excel_search_demo.mp4` in your project root.
@@ -119,7 +119,7 @@ This setup is ideal for HR dashboards, employee directories, or data filtering t
 ### 📸 Screenshots
 | Search Interface | Results Display |
 |------------------|-----------------|
-| ![Search Interface](screenshots/search_cleared.png) | ![Results Display](screenshots/results_display.png) |
+| ![Search Interface](search_cleared.png) | ![Results Display](results_display.png) |
 
 ---
 
